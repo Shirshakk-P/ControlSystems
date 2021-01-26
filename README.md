@@ -1,6 +1,7 @@
 # ControlSystems
 This repository contains the Python code for Mass-Spring Damper control system simulation 
              (only the computational problems). 
+Book: Introduction to Feedback Control using Design Studies (Randal W. Beard, Timothy W.McLain, Cammy Peterson).
 
 Reference book: http://controlbook.byu.edu/doku.php
 
